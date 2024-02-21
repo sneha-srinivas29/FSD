@@ -1,0 +1,6 @@
+GET /favicon.ico 404 150 - 3.023 ms
+POST /donors 200 15 - 32.790 ms
+GET /favicon.ico 404 150 - 10.316 ms
+GET /read4 200 583 - 53.200 ms
+GET /read4 304 - - 9.221 ms
+POST /hospitals 200 15 - 45.366 ms

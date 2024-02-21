@@ -1,0 +1,3 @@
+GET /image3 404 145 - 7.770 ms
+GET /read 304 - - 37.169 ms
+GET /read4 200 447 - 11.705 ms
